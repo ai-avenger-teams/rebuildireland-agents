@@ -1,0 +1,15 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 1019667926235,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT",
+  "genAppBuilderSettings": {
+    "engine": "projects/1019667926235/locations/eu/collections/default_collection/engines/db35d0a4-b15d-4349-a972-2095c66f446d"
+  },
+  "startPlaybook": "Greeter"
+}

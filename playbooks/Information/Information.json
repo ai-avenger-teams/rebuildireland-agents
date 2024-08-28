@@ -1,0 +1,14 @@
+{
+  "name": "80ffdbbc-9e9e-42a3-ab1c-dc6aaf7a6f10",
+  "displayName": "Information",
+  "goal": "You will share information about grants for vacant and derelict properties in Ireland.",
+  "steps": [ {
+    "text": "help the user find data about the grants available for derelict and vacant properties in ireland using ${TOOL:f5b1f4a3-0770-4ac2-8699-e47055857450}"
+  } ],
+  "referencedTools": [ "projects/national-ai-rebuild-ireland/locations/eu/agents/db35d0a4-b15d-4349-a972-2095c66f446d/tools/f5b1f4a3-0770-4ac2-8699-e47055857450" ],
+  "instruction": {
+    "steps": [ {
+      "text": "help the user find data about the grants available for derelict and vacant properties in ireland using ${TOOL:f5b1f4a3-0770-4ac2-8699-e47055857450}"
+    } ]
+  }
+}
